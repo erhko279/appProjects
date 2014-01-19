@@ -1,0 +1,31 @@
+** iOS Developer Library **
+https://developer.apple.com
+
+- Official site for iOS app developing
+
+** LIPS-model **
+http://www.liu.se/cul/resurser/lips/word-och-excel-mallar?l=sv
+
+- Templates for planning the project
+- Added Kravspec to repository
+- Use "tidsplan" if we can't find a better one on internet with reminders to phone
+
+** Project management website **
+https://www.producteev.com/workspace/t/52dc555afafba2a271000000
+
+- Add tasks 
+- Assign tasks to members
+- Add deadlines
+- Compatibility with iPhone and Android (send reminders and such to your phone)
+- Find better?
+
+** Collaborate on code and compile - online **
+https://c9.io/erhank
+https://www.openshift.com/
+
+- Try to find a website that supports Objective-C
+
+** Softwares **
+
+http://windows.github.com/
+- Userfriendly github software
