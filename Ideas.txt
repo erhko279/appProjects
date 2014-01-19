@@ -1,0 +1,8 @@
+*** Clubdevous ***
+
+- Club + Rendezvous = Clubdevous
+- An app where people can:
+  * Add friends as clubbing friends
+  * See where those friends are going
+  * Vote to decide where to go 
+- Add compatibility with Facebook
