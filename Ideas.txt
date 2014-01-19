@@ -6,3 +6,8 @@
   * See where those friends are going
   * Vote to decide where to go 
 - Add compatibility with Facebook
+
+*** Rendezvous ***
+
+- Arrange meet-ups
+- Clubdevous can be a subsection in this app
