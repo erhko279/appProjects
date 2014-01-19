@@ -13,7 +13,6 @@
   * See what music is generally played at a certain club
   * See bottle prices etc. and special offers
   * Post party pictures and videos they want hidden from facebook
-  * Follow a friend's movement throughout the night. (In case get split up by accident)
   
 - Get revenue from ads from nightclubs
   * Nightclubs promote with special prices
