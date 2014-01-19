@@ -4,7 +4,20 @@
 - An app where people can:
   * Add friends as clubbing friends
   * See where those friends are going
-  * Vote to decide where to go 
+  * Vote to decide where to go
+  * See list of trending clubs
+  * View graphs to see which clubs are hottest on which nights
+  * Follow a particular DJ
+  * Review clubs in general
+  * Review clubs on particular nights
+  * See what music is generally played at a certain club
+  * See bottle prices etc. and special offers
+  * Post party pictures and videos they want hidden from facebook
+  
+- Get revenue from ads from nightclubs
+  * Nightclubs promote with special prices
+  * Special offers given when using app while paying for drinks
+  
 - Add compatibility with Facebook
 
 *** Rendezvous ***
