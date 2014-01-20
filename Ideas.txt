@@ -1,9 +1,13 @@
 *** Clubdevous ***
 
-- Club + Rendezvous = Clubdevous
+- General
+  * Club + Rendezvous = Clubdevous
+  * Free with ads or charge?
+  
 - An app where people can:
   * Add friends as clubbing friends
   * See where those friends are going
+  * See friends arriviing/leaving clubs using GPS (must be enabled) 
   * Vote to decide where to go
   * See list of trending clubs
   * View graphs to see which clubs are hottest on which nights
@@ -19,6 +23,7 @@
   * Special offers given when using app while paying for drinks
   
 - Add compatibility with Facebook
+  * Automatically add friends who use Clubdevous as clubbing friends
 
 *** Rendezvous ***
 
