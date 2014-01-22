@@ -29,3 +29,17 @@
 
 - Arrange meet-ups
 - Clubdevous can be a subsection in this app
+
+*** Spontaneous ***
+
+- Find random date close to your current position
+
+*** Bitcoin meetup ***
+
+- Anonymous
+- Find BTC buyers/sellers
+- Choose location or find closest to your current location
+- Rate members
+- Save members as favorites
+- Send messages
+- Make requests (buying/selling, amount, BTC/LTC/PPC, time)
