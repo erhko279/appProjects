@@ -27,12 +27,15 @@
 
 *** Rendezvous ***
 
-- Arrange meet-ups
+- Arrange meet-ups with your friends
+- Not a dating app
+- See Clubdevous for more info
 - Clubdevous can be a subsection in this app
 
 *** Spontaneous ***
 
 - Find random date close to your current position
+- Make a short video introducing yourself
 
 *** Bitcoin meetup ***
 
