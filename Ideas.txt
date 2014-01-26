@@ -46,3 +46,7 @@
 - Save members as favorites
 - Send messages
 - Make requests (buying/selling, amount, BTC/LTC/PPC, time)
+- Set a radius of interested areas for conducting business transactions
+- Map of the whole world with concentrated blips for countries. As you zoom in blips break
+  down to smaller and smaller areas on map
+- Set busy status intending how long you will be away
