@@ -29,3 +29,12 @@ https://www.openshift.com/
 
 http://windows.github.com/
 - Userfriendly github software
+
+** Online guides and info on app programming for apple iOS **
+http://www.popsci.com/diy/article/2009-02/how-make-iphone-app
+
+- Step by step guide on what to think about
+
+http://www.smallnetbuilder.com/cloud/cloud-services-apps/376-how-to-write-an-iphone-app-in-14-days?start=2
+
+- Rough process of creating own app in 14 days
